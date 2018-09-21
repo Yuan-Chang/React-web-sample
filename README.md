@@ -6,7 +6,7 @@
   
   To run it:
   1. First time download the project, do "npm install && npm install --prefix client"
-  2. To run it locally, do "npm run dev"
-  3. To run it on server, do 
-     1. "npm run postbuild"
-     2. "node index.js"
+  2. * To run it locally, do "npm run dev"
+     * To run it on server, do 
+       1. "npm run postbuild"
+       2. "node index.js"
